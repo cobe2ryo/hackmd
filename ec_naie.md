@@ -22,4 +22,4 @@
 | 利用料 | × | × | △ | ◯ | × | ◯ |
 | 販売手数料 | × | × | × | △ | ◯ | ◯ |
 | SW保守 | ◯ | ◯ | ◯ | × | × | × |
-| 製品 | Text     | Text     | Text     | Text     | -------- | --------  |
+| 製品 | - | WP/EC CUBE | EC ORANGE/commerce21/EC オリジン | future-shop/カラーミー | BASE/STORES.jp | 楽天／Y!ショッピング |
