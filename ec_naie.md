@@ -22,4 +22,6 @@
 | 利用料 | × | × | △ | ◯ | × | ◯ |
 | 販売手数料 | × | × | × | △ | ◯ | ◯ |
 | SW保守 | ◯ | ◯ | ◯ | × | × | × |
-| 製品 | - | WP/EC CUBE | EC ORANGE/commerce21/EC オリジン | future-shop/カラーミー | BASE/STORES.jp | 楽天／Y!ショッピング |
+| 製品 | - | WP/EC CUBE | EC ORANGE/commerce21/EC オリジン | [future-shop](https://www.future-shop.jp/campaign/lig-20190326-2/?utm_source=Facebook&utm_medium=cpm&utm_campaign=%5BBLAM%5DRetargeting_001)/カラーミー | [BASE/STORES.jp](https://www.ecbeing.net/contents/detail/230) | 楽天／Y!ショッピング |
+
+## 参考サイト
