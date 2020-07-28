@@ -54,6 +54,7 @@
 * 請求根拠の自治体ごとのマスターを持つ（FLNシステムに追加。吉川さん）
 :::
 ## 7. BPO
+* [野村のスコープ](https://docs.google.com/spreadsheets/d/1O1q4V31wWDGYvEvvbURXUKe2ReDVmIFWLNWgbFVqec4/edit#gid=1862063667)
 
 
 
