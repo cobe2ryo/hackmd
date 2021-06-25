@@ -1,4 +1,4 @@
-## 総務省消防庁「地上デジタル放送波を活用した情報伝達手段の実証及び技術 ガイドライン案作成の請負業務」キックオフ
+# 総務省消防庁「地上デジタル放送波を活用した情報伝達手段の実証及び技術 ガイドライン案作成の請負業務」キックオフ
 
 ```
 * 公示日：2021年3月23日
@@ -29,3 +29,15 @@
     3. 実証計画の策定とスケジュールについて（岡田）
 5. 「地上デジタル放送波を活用した災害情報伝達手段のガイドライン策定等に係る検討会」のご案内（竹本様）
 6. 質疑
+
+
+![](https://i.imgur.com/5QvJPi7.png)
+![](https://i.imgur.com/Qsfvxq1.png)
+![](https://i.imgur.com/mHkjzhz.png)
+![](https://i.imgur.com/0Znh2fe.png)
+![](https://i.imgur.com/BbTWt8d.png)
+![](https://i.imgur.com/Lwpi4Gv.png)
+![](https://i.imgur.com/F8qmWqL.png)
+
+
+
